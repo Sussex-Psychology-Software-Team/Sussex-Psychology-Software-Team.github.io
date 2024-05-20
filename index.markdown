@@ -5,14 +5,14 @@
 layout: home
 ---
 
-We are the University of Sussex Psychology Department's dedicated resource for software 
+We are the University of Sussex Psychology Department's dedicated resource for innovative software 
 project work.  We specialise in developing and supporting software-based tools and applications for psychology research. 
 The team has a wide experience of software projects in psychology, from experiments in jspsych, python, MATLAB and 
 unusual Qualtrics setups, to large online interventions, digital health apps, tablet games and VR.
 
 ### Software development
 
-*   **Web and Mobile Applications:** e.g. Online interventions, longitudinal studies, data platforms.
+*   **Web and Mobile Applications:** e.g. Apps, online interventions, longitudinal studies, data platforms.
 
 *   **Games & Virtual Reality (VR):** Tablet games, and immersive experiences.
 
