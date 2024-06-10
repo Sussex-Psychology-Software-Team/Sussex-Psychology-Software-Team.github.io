@@ -20,7 +20,7 @@ unusual Qualtrics setups, to large online interventions, digital health apps, ta
 
 ### Do you want to work with us?
 
-Additionally to supporting research in our Department, we are also open to working on contracts with other departments and disciplines,
+Additionally to supporting research in our Department, we are also open to working on collaborations and contracts with other departments and disciplines,
 that would benefit from a research fluent programming team.  We offer
 a number of services, including:
 
